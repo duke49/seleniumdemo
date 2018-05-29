@@ -1,0 +1,7 @@
+2018-05-28 16:39:06,695 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-28 16:39:06,695 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-28 16:39:13,141 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-28 16:39:14,093 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-05-28 16:39:17,619 - BrowserEngine - INFO - Maximize the current window.
+2018-05-28 16:39:17,619 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-28 16:39:17,790 - BasePage - INFO - Had type ' selenium ' in inputBox
